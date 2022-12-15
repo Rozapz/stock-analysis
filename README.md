@@ -4,13 +4,13 @@ In this study stock of the green energy companies are studied. The main purpose 
 ## Results
 The analysis is well described with screenshots and code (4 pt).
 
-![code_old](Resources/code_old.png)
+![code_old.png](Resources/code_old.png)
 
-![code_refactored](Resources/code_refactored.png)
+![code_refactored.png](Resources/code_refactored.png)
 
-![VBA_Challenge_2018](Resources/VBA_Challenge_2018.png)
+![VBA_Challenge_2018.png](Resources/VBA_Challenge_2018.png)
 
-![VBA_Challenge_2017](Resources/VBA_Challenge_2017.png)
+![VBA_Challenge_2017.png](Resources/VBA_Challenge_2017.png)
 
 ## Summary
 There is always ways to improve a code. In this study we went through a process to improve a code that had an extra for loop and was going thorough the data several times. In general, one of the addvantages of refactoring is the possibility of having a faster code. The disadvantage is that by changing a working code, we might introduce a bug to the code and increase the amount of time that we should put on the code. This is a risk that we should accept to decrease the time needed to go thorough the data.
