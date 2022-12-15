@@ -6,9 +6,9 @@ The analysis is well described with screenshots and code (4 pt).
 ![code_old.png](Resources/code_old.png)
 ![code_old.png](Resources/code_old.png)
 
-![code_refactored.png](Resources/code_refactored.png)
+![code_refactored.png](Resources/code_refactored.PNG)
 
-![VBA_Challenge_2018.png](Resources/VBA_Challenge_2018.png)
+![VBA_Challenge_2018.png](Resources/VBA_Challenge_2018.PNG)
 
 ![VBA_Challenge_2017.png](Resources/VBA_Challenge_2017.png)
 
