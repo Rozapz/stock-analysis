@@ -1,8 +1,8 @@
 # Stock Analysis Using VBA (VBA challenge)
 ## Background
-In this study stock of the green energy companies are analyzed. The main purpose of this study is to go over through the stock data for 2017 and 2018 to find out best profitable green company stock. The second purpose of this study is to improve the already existing code to increase the performance. These codes are explained in next section. 
+In this study stock of the green energy companies is analyzed. The primary purpose of this study is to go over the stock data for 2017 and 2018 to find out the best profitable green company stock. The second purpose of this study is to improve the already existing code to increase performance. These codes are explained in the next section. 
 ## Results
-The data that is available to study green energy companies are included in the excel file. The data shows each stock information on each day of 2018 and 2019. The ask is to find the first and last date information and calculate the change rate. In addition, the total volume of transaction is asked for as well.
+The data that is available to study green energy companies are included in the Excel file. The data shows each stock information on each day of 2018 and 2019. The ask is to find the first and last date information and calculate the change rate. In addition, the total volume of transaction is asked for as well.
 
 In the initial code that we developed we took each stock ticker and looked through the data to find the relevant information and extract it. This resulted in a nested loop that the first loop chooses a ticker and the second loop goes through the data to find its relevant information.
 
