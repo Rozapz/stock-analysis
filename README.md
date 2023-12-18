@@ -2,13 +2,13 @@
 ## Background
 In this study stock of the green energy companies is analyzed. The primary purpose of this study is to go over the stock data for 2017 and 2018 to find out the best profitable green company stock. The second purpose of this study is to improve the already existing code to increase performance. These codes are explained in the next section. 
 ## Results
-The data that is available to study green energy companies are included in the Excel file. The data shows each stock information on each day of 2018 and 2019. The ask is to find the first and last date information and calculate the change rate. In addition, the total volume of transaction is asked for as well.
+The data that is available to study green energy companies are included in the Excel file. The data shows each stock information on each day of 2018 and 2019. The ask is to find the first and last date information and calculate the change rate. In addition, the total volume of transactions is asked for as well.
 
-In the initial code that we developed we took each stock ticker and looked through the data to find the relevant information and extract it. This resulted in a nested loop that the first loop chooses a ticker and the second loop goes through the data to find its relevant information.
+In the initial code that we developed, we took each stock ticker and looked through the data to find the relevant information and extract it. This resulted in a nested loop that the first loop chooses a ticker and the second loop goes through the data to find its relevant information.
 
 ![code_old.png](Resources/code_old.PNG)
 
-To refactor the code and improve its performance, the first loop is removed, and arrays are used to store each stock information. In this method we go through the data only once and extract and save the data as we go. This method is computationally faster as it only goes through the data once. Each time that the stock ticker is changed the tickerindex is increased by one. This index is used to store the requested data for each stock.
+To refactor the code and improve its performance, the first loop is removed, and arrays are used to store each stock information. In this method, we go through the data only once and extract and save the data as we go. This method is computationally faster as it only goes through the data once. Each time that the stock ticker is changed the tickerindex is increased by one. This index is used to store the requested data for each stock.
 
 ![code_refactored.png](Resources/code_refactored.PNG)
 
